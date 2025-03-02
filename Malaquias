@@ -112,12 +112,6 @@ print(a ** b)  # 1000
         <li>Peça o nome do usuário e exiba uma saudação.</li>
         <li>Peça dois números e mostre a soma deles.</li>
         <li>Converta uma temperatura de Celsius para Fahrenheit.</li>
-        <li>Crie um programa que verifique se um número é par ou ímpar.</li>
-        <li>Faça um programa que calcule o fatorial de um número.</li>
-        <li>Desenvolva um programa que conte quantas vogais existem em uma string fornecida pelo usuário.</li>
-        <li>Escreva um programa que inverta uma string fornecida pelo usuário.</li>
-        <li>Crie uma função que receba uma lista de números e retorne a média deles.</li>
-        <li>Desenvolva um programa que simule um jogo de adivinhação, onde o usuário tem que adivinhar um número gerado aleatoriamente pelo computador.</li>
     </ol>
 
     <p>Bom estudo e prática! 🚀</p>
